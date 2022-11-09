@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../goit-js-hw-06"
+    },
+    {
+      "path": "../parcel-project-Wojtek"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-js-hw-07"
+  }
+}
